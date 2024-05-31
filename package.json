@@ -16,12 +16,15 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
+    "@react-native-voice/voice": "^3.2.4",
     "@react-navigation/native": "^6.0.2",
     "expo": "~51.0.8",
     "expo-constants": "~16.0.1",
     "expo-font": "~12.0.5",
     "expo-linking": "~6.3.1",
+    "expo-permissions": "^14.4.0",
     "expo-router": "~3.5.14",
+    "expo-speech": "~12.0.2",
     "expo-splash-screen": "~0.27.4",
     "expo-status-bar": "~1.12.1",
     "expo-system-ui": "~3.0.4",
@@ -36,7 +39,8 @@
     "react-native-tts": "^4.1.0",
     "react-native-voice": "^0.3.0",
     "react-native-web": "~0.19.10",
-    "react-native-webrtc": "^118.0.7"
+    "react-native-webrtc": "^118.0.7",
+    "expo-av": "~14.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
